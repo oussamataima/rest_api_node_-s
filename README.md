@@ -14,7 +14,7 @@ L'API permet les opérations CRUD (Create, Read, Update, Delete) sur les produit
 
 ## Installation
 
-1. Cloner le dépôt : `git clone https://github.com/votre-nom-d-utilisateur/api-gestion-produits.git`
+1. Cloner le dépôt : `git clone https://github.com/oussamataima/rest_api_node_-s.git`
 2. Installer les dépendances : `npm install`
 
 ## Démarrage du serveur
